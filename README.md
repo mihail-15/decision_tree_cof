@@ -10,7 +10,7 @@
 
 # Input/Output files
 
-# The code reads the data from Excel files with each material's time and friction force measurements. The data files are named as follows: E_1.xlsx, E_2.xlsx, E_3.xlsx, SE_1.xlsx, SE_2.xlsx, and SE_3.xlsx, where E stands for AlSi10Mg and SE stands for AlSi10Mg-SiC composite. Each file has two columns: TIME and FF, which represent the time in seconds and the friction force in Newtons, respectively.
+# The code reads the data from Excel files with each material's time and friction force measurements. The data files are named as follows: E_1.xlsx, E_2.xlsx, E_3.xlsx, SE_1.xlsx, SE_2.xlsx, and SE_3.xlsx, where the label "E" is for AlSi10Mg and the label "SE" is for AlSi10Mg-SiC. Each "xlsx" file has two columns: TIME and FF, which is for the time in seconds and the friction force in Newtons, respectively.
 
 # The code saves the results and outputs in different formats, such as:
 
