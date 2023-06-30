@@ -1,0 +1,6 @@
+Descriptive statistics for material SE:
+Mean: 0.3571
+Median: 0.3943
+Standard deviation: 0.0804
+Minimum: 0.0009
+Maximum: 0.4475

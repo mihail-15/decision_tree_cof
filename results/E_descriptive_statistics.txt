@@ -1,0 +1,6 @@
+Descriptive statistics for material E:
+Mean: 0.4680
+Median: 0.4873
+Standard deviation: 0.0925
+Minimum: 0.0043
+Maximum: 0.5549
