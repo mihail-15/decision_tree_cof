@@ -451,7 +451,7 @@ std_cof_E = np.std(avg_cof_E_list) # calculate the standard deviation
 min_cof_E = np.min(avg_cof_E_list) # calculate the minimum
 max_cof_E = np.max(avg_cof_E_list) # calculate the maximum
 
-# Print the descriptive statistics for B
+# Print the descriptive statistics for E
 print("Descriptive statistics for material E:")
 print("Mean: {:.4f}".format(mean_cof_E))
 print("Median: {:.4f}".format(median_cof_E))
