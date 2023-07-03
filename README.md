@@ -29,6 +29,9 @@
 # Open a command prompt or a terminal window and navigate to the root folder.
 # Type: python decision_tree_cof.py
 
+# Funding
+# This research was funded by Bulgarian National Science Fund, Project № КП-06-Н57/20 “Fabrication of new type of self-lubricating antifriction metal matrix composite materials # # with improved mechanical and tribological properties”.
+
 # License
 # This project is licensed under the MIT License (see the LICENSE file for details).
 
